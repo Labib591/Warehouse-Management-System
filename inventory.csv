@@ -1,0 +1,4 @@
+ID,Name,Category,Quantity,Price,MinStockLevel
+1,Rice,Pantry,8,65.00,2
+2,Tissue,Sanitary,26,45.00,5
+3,Soap,Sanitary,15,100.00,10
